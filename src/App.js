@@ -9,6 +9,7 @@ function App() {
     return (
         <div className="App">
             <Cog />
+            <Cog />
             <Circle />
             <Levels />
             <Dots />
